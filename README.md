@@ -8,7 +8,7 @@ https://hacktoberfest.digitalocean.com/
 
 Hacktoberfest is a month (takes place from October 1-October 31 every year) long virtual festival event to celebrate open source contributions presented by DigitalOcean and DEV. https://hacktoberfest.digitalocean.com/
 
-Hacktoberfest is open to everyone. To get the Hacktoberfest 2021 T-Shirt you need to make four Pull Requests to those projects/repositories which have hacktoberfest label, between October 1,2021 to October 31,2021 in any time zone . Before that make sure you have visited the official website and registered [here](https://hacktoberfest.digitalocean.com/)
+Hacktoberfest is open to everyone. To get the Hacktoberfest 2021 T-Shirt you need to make four Pull Requests to projects/repositories which have hacktoberfest label. You need to do this between October 1st 2021 and October 31th 2021 in any time zone. Before you make any Pull Requests make sure that you have visited the official website and registered [here](https://hacktoberfest.digitalocean.com/)
 
 
 ## How to contribute??
@@ -19,13 +19,13 @@ Repository Link: https://github.com/neha07kumari/Mini_Python_Projects
 ## Rules for Contributing to this Repository
 
 1. Make sure to go to the right folder .
-2. If you are adding a program in python ,then go to Programming_in_Python and follow the below steps:
+2. If you are adding a program in Python, then go to Programming_in_Python and follow the below steps:
 ```bash
    <algorithm name>/
-   ├── <implementation file> (With commented sample input/output. In Python Lnaguage only.)
+   ├── <implementation file> (With commented sample input/output. In Python Language only.)
    ```
    I have added a sample file for your reference .
-3.If you are adding a mini project in python , then go to Projects_in_Python and follow the below steps:
+3.If you are adding a mini project in Python, then go to Projects_in_Python and follow the below steps:
 ```bash
   <project name>/
   ├── <project output> (Add the screenshot of the output.)
@@ -37,7 +37,7 @@ Repository Link: https://github.com/neha07kumari/Mini_Python_Projects
 
 ## Rules
 * Pull requests can be made in any participating GitHub or GitLab hosted repository/projects. Look for the 'hacktoberfest' topic to know if a project is participating in Hacktoberfest.
-* You can [sign up](https://hacktoberfest.digitalocean.com/) anytime between October 1 and October 31. Just be sure to sign up on the official Hacktoberfest website for your pull requests to count.
+* You can [sign up](https://hacktoberfest.digitalocean.com/) anytime between October 1st and October 31th. Just be sure to sign up on the official Hacktoberfest website for your pull requests to count.
 
 ## Details
 
